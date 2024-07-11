@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an econometric project to host and visualise data from the ONS.**
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **SQL Views**
 
 - 🤝 I’m looking for help with **creating a website for my portfolio with React.**
 
