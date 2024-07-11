@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ki Leong Joseph Lam</h1>
-<h3 align="center">👩‍💻 Trainee Data & Software Engineer @Sigma-Labs-XYZ || 📚 BSc Economics from The University of Sheffield</h3>
+<h3 align="center">👩‍💻 Junior Data Engineer @Sigma-Labs-XYZ || 📚 BSc Economics from The University of Sheffield</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joe1606" alt="joe1606" /></a> </p>
 
